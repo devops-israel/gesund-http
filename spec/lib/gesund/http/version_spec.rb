@@ -1,3 +1,3 @@
 describe Gesund::Http::VERSION do
-  it { should be == "0.0.1" }
+  it { should be == "0.0.2" }
 end
